@@ -1,0 +1,15 @@
+
+body{
+	font-family: 'Inter', sans-serif;
+	background-color: #f2f5f7;
+
+}
+.card{
+	border-radius: 30px 30px 30px 30px;
+	text-align: center;
+}
+.image img{
+	width: 1349px;
+	align-items: center;
+	text-align: center;
+}
